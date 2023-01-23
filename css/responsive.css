@@ -1,0 +1,55 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+.campaign .alignright{margin-left:0px !important;}
+.subscribe-cont{width:100%;}
+.subscribe .text-cont h3{font-size:23px;} 
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+.contact-info .item .icon-cont i{margin: 10px 0px;} 
+.subscribe-cont{width:100%;}
+.subscribe .text-cont h3{font-size:24px;}
+.navbar-2{padding: .5rem 1rem;}
+.carousel-caption h1{font-size:50px;}
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ 
+ 
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+.counter .item{border:none;}
+.no-padding{padding-left:15px; padding-right:15px;}
+.subscribe-cont{width:100%;}
+.events img{width:100%;}
+.partners .item{ margin:0px;}
+.about-2 .text-cont{margin:0px;}
+.top-bar-1 ul{float:left !important; list-style-type: none; margin: 0px 0 15px 0 !important; padding: 0px;}
+.logobar .item .text-cont h6{font-size: 12px;}
+.logobar .item .text-cont h5{font-size: 13px;}
+.navbar-2{padding: .5rem 1rem;}
+.carousel-caption h6{font-size:14px;}
+.carousel-caption hr{ display:none;}
+.carousel-caption h1{font-size:28px;}
+.carousel-control-prev, .carousel-control-next{font-size: 18px;}
+}
+/* Small Mobile Layout: 479px. */
+@media only screen and (max-width: 479px) { 
+.counter .item{border:none;}
+.partners .item{ margin:0px;}
+.subscribe-cont{width:100%;}
+.subscribe .text-cont h3{font-size:24px;}
+.about-2 .text-cont{margin:0px;}
+.top-bar-1 ul{float:left !important; list-style-type: none; margin: 0px 0 15px 0 !important; padding: 0px;}
+.logobar .item {margin: 15px 0; float: left;}
+.logobar .item .icon-cont i{margin: 0 10px 0 0 ;}
+.navbar-2{padding: .5rem 1rem;}
+
+.carousel-caption h6{font-size:12px;}
+.carousel-caption hr{ display:none;}
+.carousel-caption h1{font-size:22px;}
+.carousel-control-prev, .carousel-control-next{font-size: 18px;}
+}
